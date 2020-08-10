@@ -14,6 +14,7 @@
 - Speech Synthesis
 - Finance Engineering
 
-## :computer: Languages
-- Korean, English
+## :lips: Languages
+- Korean (I think beginner)
+- English (OPIc - IH)
 - C/C++, Python, Java, Assemmbly-MIPS
