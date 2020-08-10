@@ -18,8 +18,6 @@
 - Korean, English
 - C/C++, Python, Java, Assemmbly-MIPS
 
-![[bgm](./mp3/bgm.mp3)](./img/favorite.jpg)
-
 <!--
 **wch18735/wch18735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
