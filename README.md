@@ -18,3 +18,5 @@
 - Korean (I think beginner)
 - English (OPIc - IH)
 - C/C++, Python, Java, Assemmbly-MIPS
+
+ [![wch18735's github stats](https://github-readme-stats.vercel.app/api?username=wch18735)](https://github.com/anuraghazra/github-readme-stats)
