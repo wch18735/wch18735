@@ -5,14 +5,12 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/cheolhwang.won.9)](https://www.facebook.com/cheolhwang.won.9)
 [![mail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wch18735@nate.com)](mailto:wch18735@nate.com)  
 ----
-## :mortar_board: Education
-- Kwangwoon University Department of Electronic Communication Engineering (2015.03 ~ Present)
+Hello~ my friends!! Thank you for comming!! :blush:
 
 ## :thumbsup: Interest
-- Signal Processing
-- Speech Recognition
-- Speech Synthesis
+- Signal Processing, Speech Recognition, Speech Synthesis
 - Finance Engineering
+- Soccer
 
 ## :lips: Languages
 - Korean (I think beginner)
