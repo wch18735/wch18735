@@ -10,8 +10,8 @@ Hello~ my friends!! :blush:
 - Soccer
 
 ## :lips: Languages
-- Korean (I think beginner)
-- English (OPIc - IH)
+- Korean, English
 - C/C++, Python, Java, Assemmbly-MIPS
+- HTML, CSS, Javascript
 
  [![wch18735's github stats](https://github-readme-stats.vercel.app/api?username=wch18735)](https://github.com/anuraghazra/github-readme-stats)
