@@ -7,4 +7,5 @@
 - HTML, CSS, JavaScript
 
 ## Blog
-[Here](https://wch18735.github.io/)
+- [Tech Blog](https://wch18735.github.io/)
+- [Daily Blog](https://blog.naver.com/wch18735)
