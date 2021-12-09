@@ -1,5 +1,5 @@
 ## Cheolhwang Won
-![cycling](/img/cycling_hipster.gif)
+<img src="/img/cycling_hipster.gif" style="margin: auto auto; display: block"/>
 
 ## Languages
 - Korean, English
