@@ -1,23 +1,22 @@
 <div align=center>
-    <span style="font-family: 'Lucida Console'; font-weight: bold; font-size: 1.5em; font-style: oblique">
-    "Everything's gonna be alright"
-    </span>
-</div>
+    <b>"Everything's gonna be alright"</b>
+</div><br/>
 
 <div align=center>
-    <img src="/img/cycling_hipster.gif"/>
+    <img style="width: 250px" src="/img/cycling_hipster.gif"/>
 </div>
 <br/>
 
 <div align=center>
     <span style="font-family: 'Lucida Console'; font-weight: bold;">
-    Hello, There 😁
+    Hello, There 😁<br/>
+    I'm fresh software developer! And just dreaming of being architect.
     </span>
 </div>
 <br/>
 
 <div align=center>
-    <span style="font-weight: bold; font-size: 1.3em">Tech Stack</span>
+    <b>Tech Stack</b>
 </div>
 
 <div align=center>
@@ -43,12 +42,12 @@
 <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 </div>
-
 <br/>
-<div align=center>
-    <span style="font-weight: bold; font-size: 1.3em">Blogs</span>
-</div>
-<div align=center>
-    <a ref="https://wch18735.github.io/">[Tech Blog]</a>
-    <a ref="https://blog.naver.com/wch18735">[Daily Blog]</a>
-</div>
+
+<p align="center">
+  <b>Blogs</b>
+  <br/>
+  <a href="https://wch18735.github.io/">Tech Blog</a> |
+  <a href="https://blog.naver.com/wch18735">Daily Blog</a>
+  <br/>
+</p>
