@@ -9,12 +9,18 @@
 
 <div align=center>
     <span style="font-family: 'Lucida Console'; font-weight: bold;">
-    Hello, There 😁<br/>
-    I'm fresh software developer! And just dreaming of being architect.
+    Hello~ 😁<br/>
+    I'm fresh software developer who are dreaming of being architect.
     </span>
 </div>
 <br/>
 
+
+<div align=center>
+    <b>Working in</b><br/>
+<img src="https://img.shields.io/badge/samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white">
+</div><br/>
+    
 <div align=center>
     <b>Tech Stack</b>
 </div>
