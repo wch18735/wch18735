@@ -1,6 +1,6 @@
 <div align=center>
     <b>"Everything's gonna be alright"</b>
-</div><br/>
+</div>
 
 <div align=center>
     <img style="width: 250px" src="/img/cycling_hipster.gif"/>
