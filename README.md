@@ -22,7 +22,7 @@
 </div><br/>
     
 <div align=center>
-    <b>Tech Stack</b>
+    <b>Experience</b>
 </div>
 
 <div align=center>
