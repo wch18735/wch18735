@@ -10,7 +10,6 @@
 <div align=center>
     <span style="font-family: 'Lucida Console'; font-weight: bold;">
     Hello~ 😁<br/>
-    I'm fresh software developer dreaming of being architect.
     </span>
 </div>
 <br/>
