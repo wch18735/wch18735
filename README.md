@@ -1,5 +1,5 @@
 <div align=center>
-    <b>"Everything's gonna be alright"</b>
+    <b>"Everything gonna be alright"</b>
 </div>
 <br/>
 
